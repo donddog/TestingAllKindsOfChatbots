@@ -1,11 +1,11 @@
-## TestingAllKindsOfChatbots  
+## Testing_Various_Chatbots
   
 - Ongoing Exploration  
 ■ Rasa (English based)  
-■ Blender (Facebook AI) (English based)  
 ■ Kochat (Korean based)  
   
 - Finished Exploration (demo test, function test)  
+■ Blender (Facebook AI) (English based) (demo, Tutorial)
   
 - Expected Exploration  
 ■ Dialogflow (English / Korean based)  
