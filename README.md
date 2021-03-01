@@ -2,18 +2,20 @@
   
 - Ongoing Exploration  
 ■ Rasa (English based)  
+■ kakao i open builder (Korean based)  
   
 - Finished Exploration (demo test, function test)  
 ■ Blender (Facebook AI) (English based) (demo, Tutorial)
   
 - Expected Exploration  
 ■ Dialogflow (English / Korean based)  
-■ kakao i open builder (Korean based)  
 ------------------------------------------------------------------  
   
 ### The list of chatbot services  
 - woebot (https://woebothealth.com/) : mental care (English)  
-- Replika  (https://replika.ai/) : personal AI (English)    
+- Replika  (https://replika.ai/) : personal AI (English)
+- 영어 단어 읽어주기 (https://ttsdemo.com/)
+- 영어 단어 MP3 생성 (http://www.fromtexttospeech.com/)
 -------------------------------------------------------------------  
   
 ### the list of chatbots' platforms, frameworks  
