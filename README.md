@@ -5,7 +5,7 @@
 ■ Dialogflow (English / Korean based)  
   
 - Finished Exploration (demo test, function test)  
-■ Blender (Facebook AI) (English based) (demo, Tutorial)
+■ Blender (Facebook AI) (English based) (demo, Tutorial)  
 ■ kakao i open builder (Korean based)  (세부 목적이 불명확하면 이용 불가)  
   
 - Expected Exploration  
