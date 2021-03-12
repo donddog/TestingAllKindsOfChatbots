@@ -22,7 +22,7 @@
 ### the list of chatbots' platforms, frameworks  
 - English supported  
 ■ RASA (https://rasa.com/)  
-■ Dialogflow  (https://dialogflow.cloud.google.com/)(Google)  
+■ Dialogflow  (https://dialogflow.cloud.google.com/) (Google)  
 ■ QnA Maker (https://www.qnamaker.ai/) (Microsoft)  
   
 - Korean supported  
