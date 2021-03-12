@@ -29,7 +29,7 @@
 ■ Dialogflow  (https://dialogflow.cloud.google.com/)(Google) (무료 / 유료)  
 ■ Closer  (https://www.closer.ai/) (유료)  
 ■ 단비  (https://doc.danbee.ai/) (https://danbee.ai/) (유료)  
-■ CLOVA (https://clova.ai/ko) (https://www.ncloud.com/product/aiService/chatbot/)(네이버)(무료 / 유료)  
+■ CLOVA (https://clova.ai/ko) (https://www.ncloud.com/product/aiService/chatbot/) (네이버) (무료 / 유료)  
 -------------------------------------------------------------------  
   
 ### Tools for NLP Analysis  
