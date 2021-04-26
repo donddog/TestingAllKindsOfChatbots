@@ -2,6 +2,7 @@
   
 - Ongoing Exploration  
 ■ Rasa (English based)  
+■ Jarvis (English based)  
   
 - Finished Exploration (demo test, function test)  
 ■ Blender (Facebook AI) (English based) (demo, Tutorial)  
@@ -11,24 +12,28 @@
   
 ------------------------------------------------------------------  
 ### The list of chatbot services  
-- woebot (https://woebothealth.com/) : mental care (English)  
-- Replika  (https://replika.ai/) : personal AI (English)
-- 영어 단어 읽어주기 (https://ttsdemo.com/)
-- 영어 단어 MP3 생성 (http://www.fromtexttospeech.com/)
+- [woebot](https://woebothealth.com/) : mental care (English)  
+- [Replika](https://replika.ai/) : personal AI (English)
+- [영어 단어 읽어주기](https://ttsdemo.com/)
+- [영어 단어 MP3 생성](http://www.fromtexttospeech.com/)
 -------------------------------------------------------------------  
 ### the list of chatbots' platforms, frameworks  
 - English supported  
-■ RASA (https://rasa.com/)  
-■ Dialogflow  (https://dialogflow.cloud.google.com/) (Google)  
-■ QnA Maker (https://www.qnamaker.ai/) (Microsoft)  
+■ [RASA](https://rasa.com/)  
+■ [Dialogflow](https://dialogflow.cloud.google.com/) (Google)  
+■ [QnA Maker](https://www.qnamaker.ai/) (Microsoft)  
   
 - Korean supported  
-■ Dialogflow  (https://dialogflow.cloud.google.com/)(Google) (무료 / 유료)  
-■ Closer  (https://www.closer.ai/) (유료)  
-■ 단비  (https://doc.danbee.ai/) (https://danbee.ai/) (유료)  
-■ CLOVA (https://clova.ai/ko) (https://www.ncloud.com/product/aiService/chatbot/) (네이버) (무료 / 유료)  
+■ [Dialogflow](https://dialogflow.cloud.google.com/) (Google) (무료 / 유료)  
+■ [Closer](https://www.closer.ai/) (유료)  
+■ [단비 document](https://doc.danbee.ai/) [단비](https://danbee.ai/) (유료)  
+■ [CLOVA](https://clova.ai/ko) (네이버) (무료/유료)  
 -------------------------------------------------------------------  
 ### Tools for NLP Analysis  
 ■ pororo (Korean)  
 ■ nltk (English)  
 ■ konlpy (Korean)  
+  
+### Tools for voice synthesis  
+■ pyttsx3  
+■ gTTS  
