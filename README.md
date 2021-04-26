@@ -34,6 +34,6 @@
 ■ nltk (English)  
 ■ konlpy (Korean)  
   
-### Tools for voice synthesis  
+### Tools for text to speech(tts)
 ■ pyttsx3  
 ■ gTTS  
