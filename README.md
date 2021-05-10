@@ -2,12 +2,13 @@
   
 - Ongoing Exploration  
 ■ Rasa (English based)  
-■ Jarvis (English based)  
+■ [CLOVA](https://clova.ai/ko) (네이버) (무료/유료)  
   
 - Finished Exploration (demo test, function test)  
 ■ Blender (Facebook AI) (English based) (demo, Tutorial)  
 ■ kakao i open builder (Korean based) (세부 목적이 불명확하면 이용 불가)  
 ■ Dialogflow (English / Korean based) (Free version seem to be not that useful)  
+  
 - Expected Exploration  
   
 ------------------------------------------------------------------  
@@ -22,12 +23,12 @@
 ■ [RASA](https://rasa.com/)  
 ■ [Dialogflow](https://dialogflow.cloud.google.com/) (Google)  
 ■ [QnA Maker](https://www.qnamaker.ai/) (Microsoft)  
+■ Jarvis (English based)  
   
 - Korean supported  
 ■ [Dialogflow](https://dialogflow.cloud.google.com/) (Google) (무료 / 유료)  
 ■ [Closer](https://www.closer.ai/) (유료)  
 ■ [단비 document](https://doc.danbee.ai/) [단비](https://danbee.ai/) (유료)  
-■ [CLOVA](https://clova.ai/ko) (네이버) (무료/유료)  
 -------------------------------------------------------------------  
 ### Tools for NLP Analysis  
 ■ pororo (Korean)  
