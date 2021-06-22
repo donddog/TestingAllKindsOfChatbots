@@ -1,13 +1,20 @@
-### Testing_Various_Chatbots
+### Testing_Various_Chatbots  
+  
+■ dive into Rasa  
+■ dive into Spacy  
+■ dive into MS Azure STT / TTS  
   
 - Ongoing Exploration  
 ■ Rasa (English based)  
-■ [CLOVA](https://clova.ai/ko) (네이버) (무료/유료)  
   
 - Finished Exploration (demo test, function test)  
 ■ Blender (Facebook AI) (English based) (demo, Tutorial)  
 ■ kakao i open builder (Korean based) (세부 목적이 불명확하면 이용 불가)  
 ■ Dialogflow (English / Korean based) (Free version seem to be not that useful)  
+■ [CLOVA](https://clova.ai/ko) (네이버) (무료/유료)  
+■ Google Cloud Platform STT / TTS (Google, EN / KR supported)  
+■ SpeechRecognition (Python library, STT)  
+■ pysttx3 (Python library, TTS)  
   
 - Expected Exploration  
   
@@ -34,6 +41,7 @@
 ■ pororo (Korean)  
 ■ nltk (English)  
 ■ konlpy (Korean)  
+■ spacy  
   
 ### Tools for text to speech(tts)
 ■ pyttsx3  
